@@ -1,3 +1,6 @@
 this is main branch file
+<<<<<<< HEAD
 this is to check revert 
 this is to test git revert
+=======
+>>>>>>> parent of b64eca2... Revert "Revert "added new line to check revert""
